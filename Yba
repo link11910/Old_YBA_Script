@@ -2412,7 +2412,7 @@ end
     end)
 
     Credits:Button("Copy Discord", "Copy the discord link to clipboard.", function()
-        setclipboard("https://discord.gg/wfyHYS8E2n")
+        setclipboard("dont have xd")
         game.StarterGui:SetCore("SendNotification", {
             Title = "script";
             Text = "Set to clipboard.",
